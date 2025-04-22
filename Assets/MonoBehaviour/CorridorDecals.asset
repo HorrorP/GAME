@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2299385fa445ed58ee11ad0124e046ec, type: 3}
+  m_Name: CorridorDecals
+  m_EditorClassIdentifier:
+  DecalsMaterials:
+  - {fileID: 2100000, guid: f2b75db1f6206bd43bd1e74f6bc7edc5, type: 2}
+  - {fileID: 2100000, guid: a14011739d178dc44ab40277f2894c20, type: 2}
+  - {fileID: 2100000, guid: 5583f08fc5b78614da1b2594c61e402c, type: 2}
+  - {fileID: 2100000, guid: fae03d13b0c69f547bc33a2b780ecd47, type: 2}
+  - {fileID: 2100000, guid: a3fbd6d4251772144aea260954c6a000, type: 2}
+  - {fileID: 2100000, guid: e97f7211b68b57f4b8a06429cd7a88a9, type: 2}
+  - {fileID: 2100000, guid: 34435a45b7fe00c4a8edf171bf2ebdc3, type: 2}
+  - {fileID: 2100000, guid: 54f3ee77331ff6e44aee39aa9e118a1a, type: 2}
+  - {fileID: 2100000, guid: aaf4a0051e9e9244caecde07acf7f62e, type: 2}
+  - {fileID: 2100000, guid: f0115caf899ee2145af106484b88c98c, type: 2}
+  - {fileID: 2100000, guid: 9307d442faed0c343b61a7494ad2fd85, type: 2}
+  - {fileID: 2100000, guid: 297bae6e2d2cc564d90aa330de002093, type: 2}
+  - {fileID: 2100000, guid: 82c3e51892a68934bb151a52fd9f979b, type: 2}
+  - {fileID: 2100000, guid: 3a53935fef758c841a102e9b1fd3daec, type: 2}
+  - {fileID: 2100000, guid: 4603d0ff59d153f45b6ca61e401223bc, type: 2}
+  - {fileID: 2100000, guid: 311bb4bf8dbd41441a9c34c1758e5054, type: 2}
+  - {fileID: 2100000, guid: c52716efcccaf214ebe2d6d452197595, type: 2}
+  - {fileID: 2100000, guid: fa00d4823222cb542b69fd447ff967f8, type: 2}
+  - {fileID: 2100000, guid: 69366a08bebf5e74d8f71b6e2dd69878, type: 2}
+  - {fileID: 2100000, guid: 27d0b1004f41e104495350e7e80bbec5, type: 2}
+  - {fileID: 2100000, guid: 9eb08e6eb3b946d4c9d048c572527d60, type: 2}

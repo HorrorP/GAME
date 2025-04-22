@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: SampleSceneProfile
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: 3b7bc74bcb658d34691a6898718b66d6, type: 2}
+  - {fileID: 11400000, guid: 807650eb69d983e43b0acc7f2476c427, type: 2}
+  - {fileID: 11400000, guid: f511197d4a8a6b244bf301ca0a5f3533, type: 2}
+  - {fileID: 11400000, guid: b43043ddba66402469b10eee7cb5228e, type: 2}
+  - {fileID: 11400000, guid: f7e1bb6990962cd47a3c69fbaa7e7d80, type: 2}
+  - {fileID: 11400000, guid: 5a732a6348ee4f041aa889b2521f0a32, type: 2}
+  - {fileID: 11400000, guid: c75193bda4bfcae4fa29ee8e8463054e, type: 2}
+  - {fileID: 11400000, guid: b6ca72c86587053499fd35e6f8577dc3, type: 2}
